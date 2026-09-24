@@ -1,0 +1,19 @@
+{
+  "dataset": {
+    "n_ok": 600,
+    "n_defect": 200,
+    "seed": 42
+  },
+  "baseline_threshold_hz": 5444.1,
+  "baseline": {
+    "balanced_accuracy": 0.757,
+    "defect_recall": 0.64,
+    "false_reject_rate": 0.127
+  },
+  "random_forest": {
+    "cv_balanced_accuracy": 0.934,
+    "balanced_accuracy": 0.95,
+    "defect_recall": 0.92,
+    "false_reject_rate": 0.02
+  }
+}
