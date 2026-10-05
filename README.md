@@ -2,7 +2,7 @@
 
 Automatic detection of cracked parts from their acoustic resonance "fingerprint", using physically interpretable spectral features and a Random Forest classifier.
 
-> **About this repository.** This is a clean, self-contained demonstration of the method I developed and applied to railway components during my industrial PhD; the approach is described in [our paper in *Production Engineering* (Springer Nature, 2025)](LINK_TO_PAPER). Industrial measurement data cannot be published, so this repository uses **physics-based synthetic signals**. The numbers below describe the synthetic benchmark, not the results reported in the paper.
+> **About this repository.** This is a clean, self-contained demonstration of the method I developed and applied to railway components during my industrial PhD; a paper describing the approach is under review at *Production Engineering* (Springer Nature). Industrial measurement data cannot be published, so this repository uses **physics-based synthetic signals**. The numbers below describe the synthetic benchmark, not the results reported in the paper.
 
 ## The problem
 
